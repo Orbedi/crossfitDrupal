@@ -1,0 +1,47 @@
+.article_training_img img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 110%;
+    text-align: justify;
+}
+
+h1.page-title {
+    text-transform: uppercase;
+}
+
+.jumbotron {
+    padding: 1.2em;
+}
+
+.training_types_title {
+    margin-top: 15px;
+    font-size: 180%;
+    text-transform: uppercase;
+}
+
+.training_types_img  {
+    float: left;
+    margin-right: 15px;
+}
+
+.training_img{
+    float: left;
+    margin-right: 15px;
+}
+
+.training_types_body {
+    margin-left: 15px;
+}
+
+.youtube-field-player {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
