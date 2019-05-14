@@ -1,0 +1,23 @@
+.jumbotron-article {
+    text-align: center;
+    margin: 15px; 
+    background-color: #eee;
+    align-items: flex-end;
+    justify-content: center;
+    font-size: 12px;
+}
+
+.jumbotron-article img:hover {
+    transform: scale(1.6);
+}
+
+.jumbotron-article img {
+    transition: transform .2s; 
+    height: 100px;
+    width: 100px;
+}
+
+.jumbotron-article .view-content {
+    display: flex;
+    align-content: center;
+}
